@@ -5,9 +5,9 @@ package proto3_proto
 
 import (
 	fmt "fmt"
-	proto "github.com/gogo/protobuf/proto"
-	test_proto "github.com/gogo/protobuf/proto/test_proto"
-	types "github.com/gogo/protobuf/types"
+	proto "github.com/gracenoah/protobuf/proto"
+	test_proto "github.com/gracenoah/protobuf/proto/test_proto"
+	types "github.com/gracenoah/protobuf/types"
 	math "math"
 )
 
